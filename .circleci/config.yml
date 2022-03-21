@@ -7,7 +7,7 @@ jobs:
     steps:
     - checkout
     - run: sleep 2s
-    - run: chmod u+x *
+    - run: sleep 2s
     - run: ls
     - run: ls
     - run: ls
