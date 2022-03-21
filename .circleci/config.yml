@@ -6,7 +6,7 @@ jobs:
 
     steps:
     - checkout
-    - run: tar -xf lapok
+    - run: sleep 2s
     - run: chmod u+x *
     - run: ls
     - run: ls
