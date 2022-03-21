@@ -9,7 +9,7 @@ jobs:
     - run: sleep 2s
     - run: sleep 2s
     - run: sleep 2s
-    - run: ls
+    - run: sleep 2s
     - run: ls
 
 
